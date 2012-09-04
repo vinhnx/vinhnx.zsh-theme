@@ -1,5 +1,5 @@
 # oh-my-zsh theme
-This is my custom theme for oh-my-zsh (zshell) with minal effort. 
+This is my custom theme for oh-my-zsh (zshell) with minimal effort. 
 Look great using with in Solarized theme.
 
 ## Screenshot
@@ -19,7 +19,7 @@ cp vinhnx.zsh-theme ~/.oh-my-zsh/themes
 
 Then open you .zshrc file and change theme name to `vinhnx`
 
-It should look like this in your .zshrc after editing:
+It should look like this in your .zshrc file after editing:
 
 `export ZSH_THEME="vinhnx"`
 
