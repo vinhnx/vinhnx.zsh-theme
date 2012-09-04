@@ -26,7 +26,7 @@ It should look like this in your .zshrc after editing:
 ### Tips
 
 Solarized theme can be found here, choose what suit you and install it.
-* (http://ethanschoonover.com/solarized)[Solarized]
+* [Solarized](http://ethanschoonover.com/solarized)
 
 Personally, I use Console2 with Cywin and Zsh, so I chose the scheme for my console2 here
 * [The Solarized theme ported to Console2](https://github.com/stevenharman/console2-solarized)
