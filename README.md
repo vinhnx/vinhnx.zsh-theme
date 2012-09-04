@@ -23,4 +23,12 @@ It should look like this in your .zshrc after editing:
 
 `export ZSH_THEME="vinhnx"`
 
-Enjoy! ;)
+### Tips
+
+Solarized theme can be found here, choose what suit you and install it.
+* (http://ethanschoonover.com/solarized)[Solarized]
+
+Personally, I use Console2 with Cywin and Zsh, so I chose the scheme for my console2 here
+* [The Solarized theme ported to Console2](https://github.com/stevenharman/console2-solarized)
+
+~ Happy hacking! ;)
