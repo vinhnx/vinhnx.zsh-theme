@@ -1,7 +1,7 @@
 # oh-my-zsh theme
 -----------------
 This is my modified theme from themes/mgutz.zsh-theme for oh-my-zsh (zshell) with minimal effort.
-Look great when using with Solarized theme.
+Look great when using with Solarized color scheme.
 
 ## Screenshots
 
@@ -34,10 +34,10 @@ hit write & save `:wq`, then restart zsh and enjoy!
 
 ### Tips*
 
-Solarized theme can be found here, choose one that suits you, then install it.
+Solarized color sheme can be found here, choose one that suits you, then install it.
 - [Solarized](http://ethanschoonover.com/solarized)
 
-I personally use Console2  with Cygwin and Zsh, so I choose the theme for my console2 that can be also found here:
+I personally use Console2  with Cygwin and Zsh, so I choose the scheme for my console2 that can be also found here:
 - [The Solarized theme ported to Console2](https://github.com/stevenharman/console2-solarized)
 
 ~ Happy hacking! ;)
