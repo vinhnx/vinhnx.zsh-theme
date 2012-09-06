@@ -4,11 +4,9 @@ Look great when using with in Solarized theme.
 
 ## Screenshots
 
-![git diff](http://i.imgur.com/1nQ8r.png)
+![git diff](http://i.imgur.com/lXcjv.png)
 
-![git status](http://i.imgur.com/yMzs0.png)
-
-![git commit](http://i.imgur.com/00OdZ.png)
+![git commit](http://i.imgur.com/H5z5M.png)
 
 ## Usage
 ```
