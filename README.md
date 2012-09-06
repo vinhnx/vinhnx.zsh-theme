@@ -1,6 +1,6 @@
 # oh-my-zsh theme
 This is my custom theme for oh-my-zsh (zshell) with minimal effort. 
-Look great using with in Solarized theme.
+Look great when using with in Solarized theme.
 
 ## Screenshot
 
@@ -11,24 +11,24 @@ Look great using with in Solarized theme.
 ![git commit](http://i.imgur.com/00OdZ.png)
 
 ## Usage
-```sh
+```
 git clone https://github.com/vinhnx/vinhnx.zsh-theme.git
 cd vinhnx.zsh-theme
 cp vinhnx.zsh-theme ~/.oh-my-zsh/themes
 ```
 
-Then open you .zshrc file and change theme name to `vinhnx`
+Then open you `.zshrc` file and change the theme name to `vinhnx`
 
-It should look like this in your .zshrc file after editing:
+It should look like this in your `.zshrc` file after editing:
 
 `export ZSH_THEME="vinhnx"`
 
-### Tips
+### Tips*
 
-Solarized theme can be found here, choose what suit you and install it.
-* [Solarized](http://ethanschoonover.com/solarized)
+Solarized theme can be found here, choose one that suits you, then install it.
+- [Solarized](http://ethanschoonover.com/solarized)
 
-Personally, I use Console2 with Cywin and Zsh, so I chose the scheme for my console2 here
-* [The Solarized theme ported to Console2](https://github.com/stevenharman/console2-solarized)
+I personally use Console2  with Cygwin and Zsh, so I choose the theme for my console2 that can be also found here:
+- [The Solarized theme ported to Console2](https://github.com/stevenharman/console2-solarized)
 
 ~ Happy hacking! ;)
