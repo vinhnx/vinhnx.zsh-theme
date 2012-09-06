@@ -1,6 +1,6 @@
 # oh-my-zsh theme
 -----------------
-This is my custom theme for oh-my-zsh (zshell) with minimal effort. 
+This is my modified theme from themes/mgutz.zsh-theme for oh-my-zsh (zshell) with minimal effort.
 Look great when using with Solarized theme.
 
 ## Screenshots
