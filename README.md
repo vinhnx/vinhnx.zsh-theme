@@ -2,7 +2,7 @@
 This is my custom theme for oh-my-zsh (zshell) with minimal effort. 
 Look great when using with in Solarized theme.
 
-## Screenshot
+## Screenshots
 
 ![git diff](http://i.imgur.com/1nQ8r.png)
 
