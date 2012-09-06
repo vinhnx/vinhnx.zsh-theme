@@ -37,7 +37,7 @@ hit write & save `:wq`, then restart zsh and enjoy!
 Solarized color sheme can be found here, choose one that suits you, then install it.
 - [Solarized](http://ethanschoonover.com/solarized)
 
-I personally use Console2  with Cygwin and Zsh, so I choose the scheme for my console2 that can be also found here:
+I personally use Console2  with Cygwin and Zsh, so I choose the scheme for my console2 which can be found here:
 - [The Solarized theme ported to Console2](https://github.com/stevenharman/console2-solarized)
 
 ~ Happy hacking! ;)
