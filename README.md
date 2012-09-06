@@ -1,4 +1,4 @@
-oh-my-zsh theme
+# oh-my-zsh theme
 -----------------
 This is my custom theme for oh-my-zsh (zshell) with minimal effort. 
 Look great when using with Solarized theme.
