@@ -2,6 +2,11 @@
 This is my custom theme for oh-my-zsh (zshell) with minimal effort. 
 Look great using with in Solarized theme.
 
+### New Update: 09/14/2012
+* Added another style with dollar sign
+* Concatinated into one line to save spaces.
+* [View the alternative code](https://github.com/vinhnx/vinhnx.zsh-theme/blob/alt-layout/vinhnx.zsh-theme)
+
 ## Screenshot
 
 ![git diff](http://i.imgur.com/1nQ8r.png)
