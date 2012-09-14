@@ -9,7 +9,7 @@ Looks great when using with Solarized color scheme.
 
 ## Screenshots
 
-![screenshot](https://pbs.twimg.com/media/A2uPRBuCYAA-euK.png)
+![screenshot](http://i.imgur.com/ERLvH.png)
 
 ## Usage
 ```
