@@ -8,18 +8,8 @@ Looks great when using with Solarized color scheme.
 * Concatinated into one line to save spaces.
 
 ## Screenshots
-=======
-### New Update: 09/14/2012
-* Added another style with dollar sign
-* Concatinated into one line to save spaces.
-* [View the alternative code](https://github.com/vinhnx/vinhnx.zsh-theme/blob/alt-layout/vinhnx.zsh-theme)
 
-## Screenshot
->>>>>>> 94557b3... edit README
-
-![git diff](http://i.imgur.com/lXcjv.png)
-
-![git commit](http://i.imgur.com/H5z5M.png)
+![screenshot](https://pbs.twimg.com/media/A2uPRBuCYAA-euK.png)
 
 ## Usage
 ```
