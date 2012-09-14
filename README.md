@@ -4,8 +4,8 @@ This is my modified theme from [themes/mgutz.zsh-theme](https://github.com/robby
 Looks great when using with Solarized color scheme.
 
 ### New Update: 09/14/2012
-* Added another style with dollar sign
-* Concatinated into one line to save spaces.
+* Replaced `»` with dollar sign `$`.
+* Combined all into one line to save spaces.
 
 ## Screenshots
 
