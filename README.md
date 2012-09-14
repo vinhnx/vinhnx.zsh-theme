@@ -3,7 +3,10 @@
 This is my modified theme from [themes/mgutz.zsh-theme](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/mgutz.zsh-theme) for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) (zshell) with minimal effort.
 Looks great when using with Solarized color scheme.
 
-<<<<<<< HEAD
+### New Update: 09/14/2012
+* Added another style with dollar sign
+* Concatinated into one line to save spaces.
+
 ## Screenshots
 =======
 ### New Update: 09/14/2012
