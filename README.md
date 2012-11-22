@@ -3,9 +3,7 @@
 This is my modified theme from [themes/mgutz.zsh-theme](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/mgutz.zsh-theme) for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) (zshell) with minimal effort.
 Looks great when using with Solarized color scheme.
 
-### New Update: 09/14/2012
-* Replaced `»` with dollar sign `$`.
-* Combined all into one line to save spaces.
+[Landing Page](http://vinhnx.github.com/vinhnx.zsh-theme/)
 
 ## Screenshots
 
