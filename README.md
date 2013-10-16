@@ -8,25 +8,28 @@ Looks great when using with Solarized color scheme.
 ![screenshot](http://i.imgur.com/ERLvH.png)
 
 ## Usage
-```
-git clone https://github.com/vinhnx/vinhnx.zsh-theme.git
-cd vinhnx.zsh-theme
-cp vinhnx.zsh-theme ~/.oh-my-zsh/themes
+
+```bash
+$ git clone git@github.com:vinhnx/vinhnx.zsh-theme.git
+$ cd vinhnx.zsh-theme
+$ cp vinhnx.zsh-theme ~/.oh-my-zsh/themes
 ```
 
 Then open you `.zshrc` file and change the theme name to `vinhnx`
 
 Or edit with vim:
-```
-cd ~/
-vim .zshrc
+```bash
+$ cd ~/
+$ vim .zshrc
 ```
 
 Change the line starting with `export ZSH_THEME="..."` and replace `...` with `vinhnx`
 
 It should look like this in your `.zshrc` file after editing:
 
-`export ZSH_THEME="vinhnx"`
+```bash
+export ZSH_THEME="vinhnx"
+```
 
 hit write & save `:wq`, then restart zsh and enjoy!
 
