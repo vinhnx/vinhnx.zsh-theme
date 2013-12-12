@@ -46,3 +46,7 @@ I personally use Console2  with Cygwin and Zsh, so I choose the scheme for my co
 ## License ##
 
 There's no license or whatever, all I ask is a virtual high-five :hand:
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vinhnx/vinhnx.zsh-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
